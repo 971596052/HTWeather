@@ -13,6 +13,16 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
+/**
+ * Comments：首页
+ *
+ * @author Diesel
+ *         Time: 2016/8/13
+ *         Modified By:
+ *         Modified Date:
+ *         Why & What is modified:
+ * @version 1.0.0
+ */
 public class MainActivity extends AppCompatActivity {
 
     @BindView(R.id.main_pager)
